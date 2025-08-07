@@ -1,0 +1,1 @@
+Bhuvan is a platform developed by ISRO that provides services for mapping, visualization, and analysis of geospatial data. It includes portals for Aadhaar, MGNREGA, Housing for All, and more. Users can access satellite imagery, thematic maps, disaster management tools, and urban planning resources.

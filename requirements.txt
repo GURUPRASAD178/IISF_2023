@@ -1,0 +1,10 @@
+streamlit
+speechrecognition
+transformers
+torch
+requests
+beautifulsoup4
+faiss-cpu
+openai-whisper
+sounddevice
+scipy
