@@ -1,0 +1,81 @@
+{
+    "name": {
+        "jsonFilePath": "",
+        "photo1Path": "",
+        "photo2Path": ""
+    },
+    "data": {
+        "userName": "",
+        "observerName": "",
+        "organizationName": "",
+        "mobileNumber": "",
+        "uuid": "",
+        "deviceSerialNumber": "",
+        "deviceManufacturer": "",
+        "deviceModelName": "",
+        "osVersion": "",
+        "appVersion": "",
+        "appReleaseDate": "",
+        "stateName": "",
+        "stateCode": "",
+        "districtName": "",
+        "districtCode": "",
+        "cityCode": "",
+        "cityName": "",
+        "locationCaptured": "",
+        "photo1Captured": "",
+        "photo2Captured": "",
+        "BLC_type": "",
+        "BenDetails": {
+            "beneficiaryId": "",
+            "annexureId": "",
+            "wardName": "",
+            "beneficiaryName": "",
+            "beneficiaryFatherName": "",
+            "constructionType": "",
+            "houseType": "",
+            "projectName": "",
+            "ProjectType": "",
+            "projCode": "",
+            "financialYear": "",
+            "constructionFloorType": "",
+            "proposedFloor": "",
+            "currentFloor": "",
+            "Stage": "",
+            "Electricity": "",
+            "Water": "",
+            "Sewerage": "",
+            "OccupationStatus": "",
+            "Remarks": "",
+            "longitude": "",
+            "latitude": "",
+            "accuracy": "",
+            "timestamp": "",
+            "altitude": ""
+        },
+        "photos": {
+            "photo1": {
+                "photo1Name": "",
+                "photo1Longitude": "",
+                "photo1Latitude": "",
+                "photo1Accuracy": "",
+                "photo1Direction": "",
+                "photo1Distance": "",
+                "photo1Timestamp": "",
+                "photo1Altitude": ""
+            },
+            "photo2": {
+                "photo2Name": "",
+                "photo2Longitude": "",
+                "photo2Latitude": "",
+                "photo2Accuracy": "",
+                "photo2Direction": "",
+                "photo2Distance": "",
+                "photo2Timestamp": "",
+                "photo2Altitude": ""
+            }
+        },
+        "photo1": "",
+        "photo2": ""
+    }
+}

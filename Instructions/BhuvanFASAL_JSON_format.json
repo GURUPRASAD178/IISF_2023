@@ -1,0 +1,153 @@
+{
+    "paramcollected": {
+        "projectdetails": {
+            "apptype": "fdc",
+            "appsubtype": "fdc",
+            "appversion": 1.0,
+            "FDCprojectname": "FASAL",
+            "themeName": "FDCFASAL",
+            "profileName": "",
+            "observerName": "",
+            "organizationName": "",
+            "mobileNumber": "",
+            "creationTime": "",
+            "uuid": "",
+            "imeino": ""
+        },
+        "observations": {
+            "observation": {
+                "sequenceNumber": "",
+                "featureType": "",
+                "gpsdetails": {
+                    "featureCoordinates": "",
+                    "locationAccuracy": "",
+                    "altitude": "",
+                    "HeightGeoid": "",
+                    "speed": "",
+                    "timestamp": "",
+                    "typeOfGps": ""
+                },
+                "photos": {
+                    "photo": [
+                        {
+                            "photoName": "",
+                            "photoLongitude": "",
+                            "photoLatitude": "",
+                            "photoAccuracy": "",
+                            "photoDirection": ""
+                        },
+                        {
+                            "photoName": "",
+                            "photoLongitude": "",
+                            "photoLatitude": "",
+                            "photoAccuracy": "",
+                            "photoDirection": ""
+                        }
+                    ]
+                },
+                "parameters": {
+                    "parameter": [
+                        {
+                            "parameterName": "StateDistrictVillage",
+                            "parameterValue": "",
+                            "parameterDataType": "text",
+                            "parameterLabel": "State, District, Village"
+                        },
+                        {
+                            "parameterName": "FieldSiteID",
+                            "parameterValue": "",
+                            "parameterDataType": "text",
+                            "parameterLabel": "Field / SiteID (YYYYMMDD-NNN)"
+                        },
+                        {
+                            "parameterName": "TypeofCrop",
+                            "parameterValue": "",
+                            "parameterDataType": "text",
+                            "parameterLabel": "Type of Crop"
+                        },
+                        {
+                            "parameterName": "SizeofCropField",
+                            "parameterValue": "",
+                            "parameterDataType": "number",
+                            "parameterLabel": "Size of Crop Field / site-(m x m)"
+                        },
+                        {
+                            "parameterName": "CropGrowthStage",
+                            "parameterValue": "",
+                            "parameterDataType": "combo",
+                            "range": [
+                                "Transplanting",
+                                "Sowing",
+                                "Tillering",
+                                "Vegetative",
+                                "Flowering",
+                                "Maturity",
+                                "Others"
+                            ],
+                            "parameterLabel": "Crop Growth Stage"
+                        },
+                        {
+                            "parameterName": "CropHealthCondition",
+                            "parameterValue": "",
+                            "parameterDataType": "combo",
+                            "range": [
+                                "Good",
+                                "Average",
+                                "Poor"
+                            ],
+                            "parameterLabel": "Crop Health Condition"
+                        },
+                        {
+                            "parameterName": "CropCoveronGround",
+                            "parameterValue": "",
+                            "parameterDataType": "combo",
+                            "range": [
+                                "0-20%",
+                                "21-40%",
+                                "41-60%",
+                                "61-80%",
+                                "&gt;80%"
+                            ],
+                            "parameterLabel": "Crop Cover on Ground"
+                        },
+                        {
+                            "parameterName": "CropVariety",
+                            "parameterValue": "",
+                            "parameterDataType": "text",
+                            "parameterLabel": "Crop Variety"
+                        },
+                        {
+                            "parameterName": "DateOfSowing",
+                            "parameterValue": "",
+                            "parameterDataType": "number",
+                            "parameterLabel": "Date Of Sowing / Exp.date-of-Harvesting (DDMMYYYY)"
+                        },
+                        {
+                            "parameterName": "OtherCropsinField",
+                            "parameterValue": "",
+                            "parameterDataType": "text",
+                            "parameterLabel": "Other Crops in Field"
+                        },
+                        {
+                            "parameterName": "SoilCondition",
+                            "parameterValue": "",
+                            "parameterDataType": "combo",
+                            "range": [
+                                "Flooded",
+                                "Moist",
+                                "Dry"
+                            ],
+                            "parameterLabel": "Soil Condition"
+                        },
+                        {
+                            "parameterName": "AnyOtherRemarks",
+                            "parameterValue": "",
+                            "parameterDataType": "text",
+                            "parameterLabel": "Any Other Remarks"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

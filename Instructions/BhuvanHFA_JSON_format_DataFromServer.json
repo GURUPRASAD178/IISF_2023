@@ -1,0 +1,29 @@
+{
+    "BenDetails": {
+        "beneficiaryId": "",
+        "annexureId": "",
+        "wardName": "",
+        "beneficiaryName": "",
+        "beneficiaryFatherName": "",
+        "constructionType": "",
+        "houseType": "",
+        "projectName": "",
+        "ProjectType": "",
+        "projCode": "",
+        "financialYear": "",
+        "constructionFloorType": "",
+        "proposedFloor": "",
+        "currentFloor": "",
+        "Stage": "",
+        "Electricity": "",
+        "Water": "",
+        "Sewerage": "",
+        "OccupationStatus": "",
+        "Remarks": "",
+        "longitude": "",
+        "latitude": "",
+        "accuracy": "",
+        "timestamp": "",
+        "altitude": ""
+    }
+}

@@ -1,0 +1,114 @@
+{
+    "paramcollected": {
+        "projectdetails": {
+            "apptype": "fdc",
+            "appsubtype": "fdc",
+            "appversion": 2,
+            "FDCprojectname": "JUMPv2",
+            "themename": "FDCJUMPv2",
+            "profilename": "",
+            "observername": "",
+            "org": "",
+            "mobileNumber": "",
+            "creationTime": "",
+            "uuid": "",
+            "imeino": "",
+            "deviceId": "",
+            "officersoffice": ""
+        },
+        "observations": {
+            "observation": {
+                "sequenceNo": "",
+                "featureType": "",
+                "stateName": "",
+                "districtName": "",
+                "observationId": "",
+                "gpsdetails": {
+                    "featureCoordinates": "",
+                    "locationAccuracy": "",
+                    "altitude": "",
+                    "HeightGeoid": "",
+                    "speed": "",
+                    "timestamp": "",
+                    "typeOfGps": ""
+                },
+                "photos": {
+                    "photo": [
+                        {
+                            "photoName": "",
+                            "photoLongitude": "",
+                            "photoLatitude": "",
+                            "photoAccuracy": "",
+                            "photoDirection": ""
+                        },
+                        {
+                            "photoName": "",
+                            "photoLongitude": "",
+                            "photoLatitude": "",
+                            "photoAccuracy": "",
+                            "photoDirection": ""
+                        }
+                    ]
+                },
+                "parameters": {
+                    "parameter": [
+                        {
+                            "parameterName": "WeightofFibre",
+                            "parameterValue": "",
+                            "parameterDataType": "number",
+                            "parameterLabel": "Weight of the Fibre obtained in 100 Sq m (Kg) *"
+                        },
+                        {
+                            "parameterName": "MoistureRegainPercentageofthedryFibre",
+                            "parameterValue": "",
+                            "parameterDataType": "number",
+                            "parameterLabel": "Moisture Regain Percentage of the dry Fibre (in percentage) *"
+                        },
+                        {
+                            "parameterName": "Weightofthedrystickobtainedin100sqm",
+                            "parameterValue": "",
+                            "parameterDataType": "number",
+                            "parameterLabel": "Weight of the dry stick obtained in 100 s qm (Kg) *"
+                        },
+                        {
+                            "parameterName": "TDN1inpecentage",
+                            "parameterValue": "",
+                            "parameterDataType": "number",
+                            "parameterLabel": "Expected Grade of the Lot TDN1 in percentage *"
+                        },
+                        {
+                            "parameterName": "TDN2inpecentage",
+                            "parameterValue": "",
+                            "parameterDataType": "number",
+                            "parameterLabel": "TDN2 in percentage"
+                        },
+                        {
+                            "parameterName": "TDN3inpecentage",
+                            "parameterValue": "",
+                            "parameterDataType": "number",
+                            "parameterLabel": "TDN3 in percentage"
+                        },
+                        {
+                            "parameterName": "TDN4inpecentage",
+                            "parameterValue": "",
+                            "parameterDataType": "number",
+                            "parameterLabel": "TDN4 in percentage"
+                        },
+                        {
+                            "parameterName": "TDN5inpecentage",
+                            "parameterValue": "",
+                            "parameterDataType": "number",
+                            "parameterLabel": "TDN5 in percentage"
+                        },
+                        {
+                            "parameterName": "Anyother",
+                            "parameterValue": "",
+                            "parameterDataType": "textarea",
+                            "parameterLabel": "Any Other Information"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

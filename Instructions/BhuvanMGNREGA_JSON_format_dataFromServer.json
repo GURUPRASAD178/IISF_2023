@@ -1,0 +1,21 @@
+{
+    "asset": {
+        "assetId": "",
+        "assetName": "",
+        "workCode": "",
+        "serialNumber": "",
+        "workName": "",
+        "workFinancialYear": "",
+        "completionFinancialYear": "",
+        "workType": "",
+        "categoryId": "",
+        "categoryName": "",
+        "subCategoryId": "",
+        "subCategory": "",
+        "longitude": "",
+        "latitude": "",
+        "direction": "",
+        "accuracy": "",
+        "timestamp": ""
+    }
+}
